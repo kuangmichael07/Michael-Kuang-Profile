@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'To Do List App'
-date: 2017-04-16 15:56:00
+date: 2017-04-18 15:56:00
 categories: development
 tags: JavaScript React Babel Sass
 featured_image: 'img/posts/to do list.png'
