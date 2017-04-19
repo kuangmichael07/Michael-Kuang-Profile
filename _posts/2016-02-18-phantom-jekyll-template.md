@@ -1,8 +1,8 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Anya Light-baking Homepage'
-date: 2016-05-20 21:15:00
+date: 2017-04-17 21:15:00
 categories: development design
 tags: Jekyll Sass Bootstrap Javascript
 featured_image: 'img/posts/Anya.png'
