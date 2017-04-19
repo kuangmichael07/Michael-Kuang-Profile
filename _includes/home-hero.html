@@ -13,7 +13,8 @@
           {% endif %}
 
           {% if site.data.global.description != '' %}
-          <p class="text-center">{{site.data.global.description}} {% include contact.html %}</p>
+          <p class="text-center">{{site.data.global.description}}</p> 
+          <p class="text-center">{% include contact.html %}</p>
           {% endif %}
 
           {% include contact-modal.html %}
